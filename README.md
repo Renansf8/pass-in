@@ -1,4 +1,4 @@
-Pass-in 
+Pass-in:
 Projeto para o gerenciamento de eventos presenciais
 
 📗 Sobre
