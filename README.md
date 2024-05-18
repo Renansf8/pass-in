@@ -7,6 +7,6 @@ Projeto para o gerenciamento de eventos presenciais
 - O sistema fará um scan da credencial do participante para permitir a entrada no evento.
 
 🧑‍💻 Tecnologias utilizadas
-Java
-Spring Boot
-HSQLDB
+- Java
+- Spring Boot
+- HSQLDB
